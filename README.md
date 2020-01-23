@@ -1,5 +1,8 @@
 # Water Reminder
 
+### Screenshot
+![Screenshot](/screenshot.png)
+
 
 ### Setup
 
@@ -39,6 +42,3 @@ deactivate
 cd <path-to-git-repo>
 sh run.sh
 ```
-
-### Screenshot
-![Screenshot](/screenshot.png)
