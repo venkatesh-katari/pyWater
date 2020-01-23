@@ -14,7 +14,7 @@ def main():
         if START + DURATION < time.time():
             Notifier.remove(os.getpid())
             exit()
-        quote = QUOTES[random.randint(0, len(QUOTES))]
+        quote = QUOTES[random.randint(0, len(QUOTES)-1)]
         Notifier.notify(quote, sound='default', title="Drink Water 😃", appIcon='rain.png')
         time.sleep(FREQUENCY)
         
