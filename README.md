@@ -32,3 +32,9 @@ python water.py
 deactivate
 ```
 
+### run
+
+```sh
+cd <path-to-git-repo>
+sh run.sh
+```
