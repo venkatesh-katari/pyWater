@@ -5,6 +5,7 @@
 
     git clone https://github.com/venkatesh-katari/pyWater.git
     cd pyWater
+    ./run.sh # this will install dependencies and run water.py
 
 ### Create cron 
 
