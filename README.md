@@ -22,7 +22,7 @@ cd <path to code folder>
 
 export WATER_VENV_PATH=/tmp/waterR
 
-python3.7 -m venv ${WATER_VENV_PATH}
+python3 -m venv ${WATER_VENV_PATH}
 
 source  ${WATER_VENV_PATH}/bin/activate
 
