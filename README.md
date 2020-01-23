@@ -40,5 +40,5 @@ deactivate
 
 ```sh
 cd <path-to-git-repo>
-sh run.sh
+./run.sh
 ```
